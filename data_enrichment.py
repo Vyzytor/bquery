@@ -1,4 +1,3 @@
-data_enrichment.py
 
 # Copyright 2017 Google Inc.
 #
